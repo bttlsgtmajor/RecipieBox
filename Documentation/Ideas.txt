@@ -1,0 +1,34 @@
+Collection of Recipes.
+	-Name
+	-Ingredients
+		-Name
+		-Amount
+	-Serving Size
+	-Description
+	-Tips/Notes
+	-Instructions
+Recipes are Editable.
+Recipes are searchable.
+	-Name
+	-Ingredients
+Able to add a recipe to a shopping list.
+Links the shopping list to the pantry and auto generates what you need to buy from the store.
+Able to add a new recipe.
+Able to delete a recipe.
+When adjusting the serving size for the instance of the recipe it should update the incredient list and the shopping list.
+Make this accessable on mobile.
+Make this accessable on web.
+Login feature.
+Able to create a "household" which creates a new pantry.
+Recipe box links to whatever "household" you have selected currently and uses that.
+Able to modify a "household" data.
+	-Name
+		*Not sure if I really need any other information here.
+User only has access to their "households".
+Users can share their recipies/box/Households with others.
+Favorites?
+Rating for recipes.
+Able to print shopping list.
+Able to email shopping list.
+Able to save shopping list?
+	*Essentially I'm thinking of somehow being able to allow users to use a computer to create the shopping list for the week and then access that list on their mobile application.

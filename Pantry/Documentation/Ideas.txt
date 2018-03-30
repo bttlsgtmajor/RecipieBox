@@ -1,0 +1,7 @@
+Collection of Items in the Pantry.
+	-Type
+	-Amount
+Able to update the items.
+Able to search the pantry for something.
+Stored in a db.
+	-Oracle?
